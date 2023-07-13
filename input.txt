@@ -1,0 +1,1 @@
+This is a sample input text for calculating the SHA-256 hash.
